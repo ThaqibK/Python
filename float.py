@@ -9,6 +9,6 @@ print(z)
 print(a)
 
 
-print(f"{z:,}") # This adds (,) in numerical system so we can easily number it
+print(f"{z:,}") # This adds (,) in numerical system so we can easily number it.
 
-print(f"{z:.2f}") # This .2f round it off to 2 decimal places in numerical system so we can easily number it
+print(f"{z:.2f}") # This .2f round it off to 2 decimal places.
