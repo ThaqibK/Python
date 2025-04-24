@@ -1,6 +1,6 @@
 students = ["Hermoine", "Harry", "Ron", "Draco"]
 
-for i in range(len(students)):
+for i in range(len(students)):    # This code conatins range function 
     print(students[i])
 
 for i in range(len(students)):
